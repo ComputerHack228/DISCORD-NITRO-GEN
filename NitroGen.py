@@ -63,7 +63,12 @@ class NitroGen:  # Initialise the class
             print(f'\33]0;Nitro Generator and Checker - Made by Worthy\a',
                   end='', flush=True)  # Update title of command prompt
 
-        print("""   Worthy's Nitro Gen
+        print("""   __                   
+\ \      / /__  _ __| |_| |__  _   _ 
+ \ \ /\ / / _ \| '__| __| '_ \| | | |
+  \ V  V / (_) | |  | |_| | | | |_| |
+   \_/\_/ \___/|_|   \__|_| |_|\__, |
+                               |___/ 
                                                         """)  # Print the title card
         time.sleep(2)  # Wait a few seconds
         # Print who developed the code
